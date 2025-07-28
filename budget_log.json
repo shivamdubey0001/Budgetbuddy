@@ -1,0 +1,10 @@
+{
+  "income": [
+    {
+      "amount": 555.0,
+      "source": "Driving",
+      "date": "2025-06-21"
+    }
+  ],
+  "expenses": []
+}
